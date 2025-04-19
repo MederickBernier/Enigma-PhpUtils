@@ -1,0 +1,14 @@
+{
+    "name":"mederickbernier/enigma-php-utils",
+    "description": "A lightweight, PSR-compliant PHP utility library",
+    "type": "library",
+    "license": "MIT",
+    "autoload":{
+        "psr-4":{
+            "Enigma\\PhpUtils\\":"src/Enigma/PhpUtils"
+        }
+    },
+    "require":{
+        "php": ">=7.4"
+    }
+}
